@@ -4,7 +4,7 @@
 
 Hi, I'm **Manqing**! I have a strong quantitative background in Economics and Applied Statistics, and I’m currently pursuing my Master’s in Applied Statistics at the University of Michigan. With professional experience in both academic and industry settings, I specialize in statistical modeling, data visualization, and building data-driven solutions to real-world problems.
 
-My interests lie at the intersection of statistics, healthcare analytics, social science, and forensic genetics. I am passionate about uncovering patterns in large datasets and applying rigorous methods to generate actionable insights.
+My interests lie at the intersection of statistics, econometric, healthcare analytics, social science, and forensic genetics. I am passionate about uncovering patterns in large datasets and applying rigorous methods to generate actionable insights.
 
 
 ---
@@ -29,7 +29,7 @@ My interests lie at the intersection of statistics, healthcare analytics, social
 - **[Population Differences in Forensic Relative Identification via Genetic Genealogy](#)**  
   *Goal:* Examine racial disparities in family size across time using census microdata.  
   *Skills:* Data cleaning, visualization, statistical testing  
-  *Tech:* R, Tidyverse, ggplot2  
+  *Tech:* R, tidyverse, ggplot2, purrr, MASS, nnet, car
   *Highlights:* Analyzed 1.9M+ records and visualized demographic trends across decades.
 
 ### SAS
@@ -37,7 +37,7 @@ My interests lie at the intersection of statistics, healthcare analytics, social
   *Goal:* Evaluate how different types of bariatric surgery (LAGB, RYGB) impact patients' BMI over time, while accounting for comorbidities and behavioral factors.  
   *Skills:* Longitudinal data analysis, statistical inference, generalized linear models (GLM), interpretation of regression outputs. 
   *Tech:* SAS
-  *Highlights:*Analyzed BMI trends over time post-surgery using a GLM framework. Found that both LAGB and RYGB treatments significantly reduced weight compared to control. Also assessed the role of comorbidities (diabetes, hypertension) and alcohol consumption, finding time as a significant predictor of weight loss, while gender, diabetes, and hypertension had no statistically significant effects
+  *Highlights: *Analyzed BMI trends over time post-surgery using a GLM framework. Found that both LAGB and RYGB treatments significantly reduced weight compared to control. Also assessed the role of comorbidities (diabetes, hypertension) and alcohol consumption, finding time as a significant predictor of weight loss, while gender, diabetes, and hypertension had no statistically significant effects
 
 ---
 
